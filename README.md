@@ -1,6 +1,6 @@
 # Modern Landing Page with Next.js & Tailwind CSS
 
-This is a modern, responsive landing page built with Next.js 14 and TailwindCSS. It's designed for showcasing digital products, startups, and services with a clean and professional appearance.
+This is a modern, responsive landing page built with Next.js 14 and TailwindCSS.
 
 ![image](https://user-images.githubusercontent.com/1884712/121497169-03228680-c990-11eb-975a-e77fddc43de0.png)
 
