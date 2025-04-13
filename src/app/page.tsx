@@ -13,12 +13,11 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Nextly Benefits"
-        title=" Why should you use this landing page"
+        preTitle="Benefits"
+        title="look at the benefits of our product"
       >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+        rerum veritatis reiciendis labore, ipsa mollitia quasi?
       </SectionTitle>
 
       <Benefits data={benefitOne} />
@@ -33,7 +32,7 @@ export default function Home() {
         don&apos;t forget to add one. Just like this.
       </SectionTitle>
 
-      <Video videoId="fZ0D0cnR88E" />
+      <Video videoId="Yap9TIxZLMk" />
 
       <SectionTitle
         preTitle="Testimonials"
