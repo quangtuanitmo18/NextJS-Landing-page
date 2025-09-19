@@ -1,9 +1,9 @@
 import {
-  FaceSmileIcon,
+  AdjustmentsHorizontalIcon,
   ChartBarSquareIcon,
   CursorArrowRaysIcon,
   DevicePhoneMobileIcon,
-  AdjustmentsHorizontalIcon,
+  FaceSmileIcon,
   SunIcon,
 } from "@heroicons/react/24/solid";
 
@@ -39,13 +39,13 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Project is designed as a mobile first responsive template.",
+      title: "Mobile Responsive Page",
+      desc: "Project is designed as a mobile first responsive page.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
       title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      desc: "This page is powered by latest technologies and tools.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {

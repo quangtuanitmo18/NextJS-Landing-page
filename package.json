@@ -1,7 +1,7 @@
 {
   "name": "nextJS-Landing-Page",
   "version": "2.0.0",
-  "description": "Landing Page Template",
+  "description": "Landing Page",
   "private": true,
   "scripts": {
     "dev": "next dev",

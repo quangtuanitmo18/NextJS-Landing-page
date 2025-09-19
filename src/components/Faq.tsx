@@ -1,7 +1,10 @@
 "use client";
-import React from "react";
 import { Container } from "@/components/Container";
-import { Disclosure, DisclosureButton, DisclosurePanel } from "@headlessui/react";
+import {
+  Disclosure,
+  DisclosureButton,
+  DisclosurePanel,
+} from "@headlessui/react";
 import { ChevronUpIcon } from "@heroicons/react/24/solid";
 
 export const Faq = () => {
@@ -32,16 +35,13 @@ export const Faq = () => {
       </div>
     </Container>
   );
-}
+};
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
-  },
-  {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "lorem ipsum dolor sit amet? ",
+    answer:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     question: "What is your refund policy? ",

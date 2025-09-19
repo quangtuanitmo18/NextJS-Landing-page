@@ -66,15 +66,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 └── next.config.js   # Next.js configuration
 ```
 
-## Customization
-
-The template is fully customizable:
-
-- Update the hero section content in `src/components/Hero.tsx`
-- Modify testimonials in `src/components/Testimonials.tsx`
-- Change benefits data in `src/components/data.js`
-- Edit the FAQ section in `src/components/Faq.tsx`
-
 ## Deployment
 
 Deploy this project using [Vercel](https://vercel.com):

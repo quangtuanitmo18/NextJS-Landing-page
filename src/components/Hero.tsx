@@ -1,5 +1,5 @@
-import Image from "next/image";
 import { Container } from "@/components/Container";
+import Image from "next/image";
 import heroImg from "../../public/img/hero.png";
 
 export const Hero = () => {
@@ -33,8 +33,8 @@ export const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            Trusted by <span className="text-indigo-600">2000+</span> customers
-            worldwide
+            lorem <span className="text-indigo-600">2000+</span> Lorem ipsum
+            dolor sit amet consectetur adipisicing
           </div>
 
           <div className="flex flex-wrap justify-center gap-5 mt-10 md:justify-around">
